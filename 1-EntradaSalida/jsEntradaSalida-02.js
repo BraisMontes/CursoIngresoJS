@@ -1,9 +1,14 @@
 /*
+Brais Fernandez Montes
+Ejercicio 02
 Debemos lograr tomar un nombre con 'prompt' 
 y luego mostrarlo por 'alert' al presionar el botón  'mostrar'*/
 function mostrar()
 {
-Nombre = prompt("ok")
-	alert("Nombre");
+let nombre;
+
+	nombre = prompt("ingrese su nombre");
+	
+alert(nombre);
 }
 
