@@ -1,11 +1,15 @@
+/* Fernandez Montes Brais
+Ejercicio If 04 */
 function mostrar()
 {
 	//tomo la edad  
-let edad
-
+let edad;
+ 
 edad = parseInt(document.getElementById("txtIdEdad").value);
 
-if(edad ){
+if(edad >=13 && edad<=17 ){
+
+	alert("Es adolescente"); 
 
 
 }

@@ -1,3 +1,6 @@
+/* Fernandez Montes Brais
+Ejercicio 02 */
+
 function mostrar()
 {
 	//tomo la edad  

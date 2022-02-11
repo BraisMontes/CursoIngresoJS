@@ -1,3 +1,5 @@
+//Fernandez Montes Brais
+// Ejercicio If 03
 function mostrar()
 {
 	//tomo la edad  
