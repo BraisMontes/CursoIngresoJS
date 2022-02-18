@@ -1,3 +1,5 @@
+/* Fernandez Montes Brais
+Ejercicio 01 Switch*/
 function mostrar()
 {
 	//tomo el mes
